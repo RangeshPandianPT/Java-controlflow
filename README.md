@@ -6,30 +6,32 @@ Control Flow in Java refers to the order in which individual statements, instruc
 
 There are three main types:
 
-Sequential – Default execution from top to bottom.
+1. Sequential – Default execution from top to bottom.
 
-Selection (Decision-making) – Executes code based on conditions.
+2. Selection (Decision-making) – Executes code based on conditions.
 
-Iteration (Loops) – Repeats a block of code.
+3. Iteration (Loops) – Repeats a block of code.
 
 🚀 Why Learn Control Flow?
-Mastering control flow enables you to:
 
-Implement logic in your applications
+1. Mastering control flow enables you to:
 
-Solve problems using loops and conditions
+2. Implement logic in your applications
 
-Build interactive programs
+3. Solve problems using loops and conditions
 
-🧭 Description: What is Control Flow in Java?
+4. Build interactive programs
+
+🧭 Description: What is Control Flow in Java? 
+
 Control Flow in Java refers to the order in which instructions in a program are executed. It determines how the program chooses different paths based on conditions and how it repeats certain operations. By using control flow statements, developers can make decisions, execute code conditionally, and perform repetitive tasks efficiently.
 
 There are three main categories of control flow:
 
-Conditional Statements – Used to execute blocks of code based on Boolean expressions. (if, if-else, switch)
+1. Conditional Statements – Used to execute blocks of code based on Boolean expressions. (if, if-else, switch)
 
-Looping Statements – Used to repeat a block of code multiple times. (for, while, do-while)
+2. Looping Statements – Used to repeat a block of code multiple times. (for, while, do-while)
 
-Jump Statements – Used to alter the normal flow, such as exiting loops early or skipping iterations. (break, continue, return)
+3. Jump Statements – Used to alter the normal flow, such as exiting loops early or skipping iterations. (break, continue, return)
 
-Understanding control flow is essential for writing logical, efficient, and dynamic Java applications.
+4. Understanding control flow is essential for writing logical, efficient, and dynamic Java applications.
